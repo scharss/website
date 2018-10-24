@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeeee"
+        android:title="@string/btnhome" />
+    <item
+        android:id="@+id/domiciliossss"
+        android:title="@string/btndomicilios" />
+    <item
+        android:id="@+id/videossss"
+        android:title="@string/btnvideos" />
+    <item
+        android:id="@+id/contactossss"
+        android:title="@string/btncontacto" />
+    <item
+        android:id="@+id/tutorialsss"
+        android:title="@string/btntutorial" />
+    <item
+        android:id="@+id/descargasss"
+        android:title="@string/btndescargas" />
+</menu>
